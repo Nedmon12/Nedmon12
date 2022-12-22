@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Mentesnot</a></h1>
-<h3 align="center">A passionate Full-stack web developer from Addis Ababa, Ethiopia &#x1F1EA;&#127466;</h3>
+<h3 align="center">A passionate Full-stack web developer from Addis Ababa, Ethiopia &#x1F1EA;&#x1F1F9;</h3>
 
 
 
